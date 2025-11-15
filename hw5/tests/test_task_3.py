@@ -1,5 +1,3 @@
-# hw5/tests/test_task_3.py
-
 """Тесты для AVL-дерева."""
 
 import random
